@@ -7,16 +7,9 @@ CS student at the **University of Virginia** (minor in Data Science) interested 
 ---
 
 **Languages:** Python · Java · JavaScript · C · SQL
-**ML / Data:** PyTorch · NumPy
+**ML / Data:** PyTorch · NumPy · Hugging Face · Pandas · GCP
 **Web:** React · Node.js · Django
 **Tools:** Git · Kubernetes · Linux · Vim
-
----
-
-### Featured projects
-
-- **GPT from Scratch** — A decoder-only transformer built from the ground up in PyTorch (multi-head self-attention, positional embeddings, causal masking) for character-level text generation.
-- **Handwritten Digit Recognition** — A neural network implemented from scratch in NumPy (forward/backprop, mini-batch SGD), trained on MNIST.
 
 ---
 
